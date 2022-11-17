@@ -4,13 +4,15 @@
 
 ## 💻  <i>About me </i>
 
-- **Working**: data science, front-end development, web automation
+- Major in mathematics, developing a new tool in topological data analysis
+
+- Playing with front-end development and web automation in my spare time
 
 - **Learning**: gatsbyjs, cloud technologies
 
 - **Hobbies**: indoor climbing 🧗, hiking ⛰️, cycling 🚴‍♂️, driving 🚙
 
-- **Location**: 🗻
+- **Location**: 🇯🇵
 
 
 ## 🎆 <i>Tech stacks</i>
