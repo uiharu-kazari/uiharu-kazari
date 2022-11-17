@@ -1,6 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I’m @uiharu-kazari</h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3> -->
-# 🌏 <b>Hello, World!</b>
+<!-- # 🌏 <b>Hello, World!</b> -->
+# <b>👋, 🌏❕</b>
 
 ## 💻  <i>About me </i>
 
