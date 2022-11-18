@@ -9,11 +9,11 @@
 
 - Playing with front-end development and web automation in my spare time
 
-- **Learning**: gatsbyjs, cloud technologies
+- **Learning**: gatsbyjs, cloud technologies, CD/CI
 
 - **Hobbies**: indoor climbing 🧗, hiking ⛰️, cycling 🚴‍♂️, driving 🚙
 
-- **Location**: 🇯🇵
+- **Location**: 🗻
 
 
 ## 🎆 <i>Tech stacks</i>
