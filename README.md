@@ -1,16 +1,19 @@
 <!-- <h1 align="center">Hi 👋, I’m @uiharu-kazari</h1>
 <h3 align="center">A passionate Python and Front-End (and a beginner designer) developer from Brazil</h3> -->
-# 🌏 <i>Hello, World!</i>
+<!-- # 🌏 <b>Hello, World!</b> -->
+# <b>👋, 🌏❕</b>
 
 ## 💻  <i>About me </i>
 
-- **Working**: data science, front-end development, web automation
+- Major in mathematics, developing a new tool in topological data analysis
+
+- Playing with front-end development and web automation in my spare time
 
 - **Learning**: gatsbyjs, cloud technologies
 
 - **Hobbies**: indoor climbing 🧗, hiking ⛰️, cycling 🚴‍♂️, driving 🚙
 
-- **Location**: 🗻
+- **Location**: 🇯🇵
 
 
 ## 🎆 <i>Tech stacks</i>
