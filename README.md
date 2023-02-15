@@ -45,6 +45,7 @@
 
 ## ⭐ <i>My badges</i>
 <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" height="120"/>
+<img src="images/microsoft-certified-azure-data-scientist-associate.png" alt="Microsoft Certified: Azure Data Scientist Associate" width="120" height="120"/>
 
 ## 📊 <i>Github stats</i>
 <!-- <details open> 
