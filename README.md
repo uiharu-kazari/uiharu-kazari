@@ -44,14 +44,10 @@
 
 
 ## ⭐ <i>My badges</i>
-<div class="row">
-<div class="column">
+<p float="left">
 <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" height="120"/>
-</div>
-<div class="column">
 <img src="images/microsoft-certified-azure-data-scientist-associate.png" alt="Microsoft Certified: Azure Data Scientist Associate" width="120" height="120"/>
-</div>
-</div>
+</p>
 
 ## 📊 <i>Github stats</i>
 <!-- <details open> 
