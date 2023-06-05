@@ -11,7 +11,7 @@
 
 - **Learning**: gatsbyjs, cloud technologies, CD/CI
 
-- **Hobbies**: indoor climbing 🧗, hiking ⛰️, cycling 🚴‍♂️, driving 🚙
+- **Hobbies**: bouldering 🧗, hiking ⛰️, cycling 🚴‍♂️, driving 🚙
 
 - **Location**: 🗻
 
