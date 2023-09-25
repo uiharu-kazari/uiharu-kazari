@@ -48,26 +48,3 @@
 <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="120" height="120"/>
 <img src="images/microsoft-certified-azure-data-scientist-associate.png" alt="Microsoft Certified: Azure Data Scientist Associate" width="120" height="120"/>
 </p>
-
-## 📊 <i>Github stats</i>
-<!-- <details open> 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-  <p align="center">
-    <img alt="my github graph" src="https://activity-graph.herokuapp.com/graph?username=uiharu-kazari&theme=github-light&hide_border=true&area=true" height="auto"/>
-  </p>
-<br/>
-</details> -->
-
-
-<details open>
-  <summary><b>🔥 Streak Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uiharu-kazari&theme=buefy" alt="my GitHub Streak"  />
-  </p>
-  <br/>
-
-</details>
-
-<br/>
